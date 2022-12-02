@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leogumi/conversor-de-divisa-javaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leogumi/conversor-de-divisa-javaScript/issues"
+  },
+  "homepage": "https://github.com/leogumi/conversor-de-divisa-javaScript#readme",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "bootstrap": "^5.2.3"
+  }
+}
